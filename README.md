@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hola, soy Rodrigo Hernandez Angulo
 
-<!--
-**rojo1994/rojo1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+Soy un apasionado desarrollador back-end con experiencia en varias tecnologías y herramientas. Disfruto creando soluciones eficientes y robustas para problemas complejos. Mi enfoque principal está en el desarrollo de aplicaciones web y sistemas escalables.
 
-Here are some ideas to get you started:
+## Conocimientos y Tecnologías
+- **Lenguajes de Programación:** Python, Java, JavaScript
+- **Tecnologías Web:** HTML, CSS
+- **Frameworks y Bibliotecas:** Django, Node.js, Express.js
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB, InfluxDB, Firebase
+- **Herramientas de Control de Versiones:** Git
+- **Gestión de Paquetes:** npm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contacto
+- **LinkedIn:** [Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/rojo1994/)
+- **Correo Electrónico:** hectorrpersonal@outlook.com
+
+¡Estoy siempre interesado en colaboraciones emocionantes y oportunidades de desarrollo! Si tienes alguna pregunta o simplemente quieres charlar, ¡no dudes en contactarme!
