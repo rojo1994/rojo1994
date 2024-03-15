@@ -13,7 +13,7 @@ Soy un apasionado desarrollador back-end con experiencia en varias tecnologías 
 
 
 ## Contacto
-- **LinkedIn:** [Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/rojo1994/)
+- **LinkedIn:** [Rojo1994](https://www.linkedin.com/in/rojo1994/)
 - **Correo Electrónico:** hectorrpersonal@outlook.com
 
 ¡Estoy siempre interesado en colaboraciones emocionantes y oportunidades de desarrollo! Si tienes alguna pregunta o simplemente quieres charlar, ¡no dudes en contactarme!
